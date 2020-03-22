@@ -1,0 +1,286 @@
+﻿{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "TextBlock",
+      "text": "Patient Record",
+      "horizontalAlignment": "Center",
+      "wrap": true,
+      "size": "Large",
+      "weight": "Bolder",
+      "color": "Accent"
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "width": "auto",
+          "items": [
+            {
+              "type": "Image",
+              "altText": "",
+              "url": "https://www.kindpng.com/picc/m/495-4952535_create-digital-profile-icon-blue-user-profile-icon.png",
+              "size": "Medium"
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "width": "stretch",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Name",
+              "spacing": "None",
+              "size": "Medium",
+              "weight": "Bolder"
+            },
+            {
+              "type": "ColumnSet",
+              "columns": [
+                {
+                  "type": "Column",
+                  "width": "auto",
+                  "items": [
+                    {
+                      "type": "TextBlock",
+                      "text": "Gender:",
+                      "spacing": "Small",
+                      "weight": "Bolder"
+                    },
+                    {
+                      "type": "TextBlock",
+                      "text": "Date of Birth:",
+                      "spacing": "Small",
+                      "weight": "Bolder"
+                    },
+                    {
+                      "type": "TextBlock",
+                      "text": "Age/Deceased:",
+                      "spacing": "Small",
+                      "weight": "Bolder"
+                    }
+                  ]
+                },
+                {
+                  "type": "Column",
+                  "width": "stretch",
+                  "items": [
+                    {
+                      "type": "TextBlock",
+                      "text": "M/F",
+                      "spacing": "Small",
+                      "color": "Accent"
+                    },
+                    {
+                      "type": "TextBlock",
+                      "text": "dd/mm/yyyy",
+                      "spacing": "Small",
+                      "color": "Accent"
+                    },
+                    {
+                      "type": "TextBlock",
+                      "text": "dd/mm/yyyy (age)",
+                      "spacing": "Small",
+                      "color": "Accent"
+                    }
+                  ]
+                }
+              ],
+              "spacing": "None"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "TextBlock",
+      "text": "Personal Information",
+      "separator": true,
+      "spacing": "Small",
+      "weight": "Lighter"
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "width": "auto",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Marital Status:",
+              "spacing": "Small",
+              "weight": "Bolder"
+            },
+            {
+              "type": "TextBlock",
+              "text": "Languages:",
+              "spacing": "None",
+              "weight": "Bolder"
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "width": "stretch",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "S",
+              "spacing": "Small",
+              "color": "Accent"
+            },
+            {
+              "type": "TextBlock",
+              "text": "English",
+              "spacing": "None",
+              "color": "Accent"
+            }
+          ]
+        }
+      ],
+      "spacing": "None"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Medical Details",
+      "separator": true,
+      "spacing": "Small",
+      "weight": "Lighter"
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "width": "auto",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Medical Practice:",
+              "spacing": "Small",
+              "weight": "Bolder"
+            },
+            {
+              "type": "TextBlock",
+              "text": "General Practitioner:",
+              "spacing": "None",
+              "weight": "Bolder"
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "width": "stretch",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Practice Name",
+              "spacing": "Small",
+              "color": "Accent"
+            },
+            {
+              "type": "TextBlock",
+              "text": "GP Name",
+              "spacing": "None",
+              "color": "Accent"
+            }
+          ]
+        }
+      ],
+      "spacing": "None"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Address",
+      "separator": true,
+      "spacing": "Small",
+      "weight": "Lighter"
+    },
+    {
+      "type": "Container",
+      "items": [
+        {
+          "type": "TextBlock",
+          "text": "Line",
+          "spacing": "None",
+          "color": "Accent"
+        },
+        {
+          "type": "TextBlock",
+          "text": "Town",
+          "spacing": "None",
+          "color": "Accent"
+        },
+        {
+          "type": "TextBlock",
+          "text": "City",
+          "spacing": "None",
+          "color": "Accent"
+        },
+        {
+          "type": "TextBlock",
+          "text": "Country",
+          "spacing": "None",
+          "color": "Accent"
+        }
+      ],
+      "spacing": "None"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Contact Information",
+      "separator": true,
+      "spacing": "Small",
+      "weight": "Lighter"
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "width": "auto",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Phone:",
+              "spacing": "None",
+              "separator": true,
+              "weight": "Bolder"
+            },
+            {
+              "type": "TextBlock",
+              "text": "Use:",
+              "spacing": "None",
+              "weight": "Bolder"
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "width": "stretch",
+          "items": [
+            {
+              "type": "TextBlock",
+              "text": "Phone Number",
+              "spacing": "None",
+              "separator": true,
+              "color": "Accent"
+            },
+            {
+              "type": "TextBlock",
+              "text": "Use for Contact",
+              "spacing": "None",
+              "color": "Accent"
+            }
+          ]
+        }
+      ],
+      "spacing": "None"
+    }
+  ]
+}

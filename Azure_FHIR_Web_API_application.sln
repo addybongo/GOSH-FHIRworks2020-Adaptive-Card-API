@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Azure_FHIR_Web_API_application", "dotnet-azure-fhir-web-api\donet-azure-fhir-web-api.csproj", "{67DC99CB-BF78-4722-8852-572E5A1AC67B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67DC99CB-BF78-4722-8852-572E5A1AC67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DC99CB-BF78-4722-8852-572E5A1AC67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DC99CB-BF78-4722-8852-572E5A1AC67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DC99CB-BF78-4722-8852-572E5A1AC67B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7D381FD-463E-4AAE-96FA-C8C37CE93B30}
+	EndGlobalSection
+EndGlobal

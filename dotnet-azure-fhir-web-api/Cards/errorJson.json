@@ -1,0 +1,10 @@
+﻿{"resourceType":"OperationOutcome",
+ "issue":
+ [
+    {
+      "severity":"error",
+      "code":"search-not-found",
+      "diagnostics":"No patients found with those search parameters."
+    }
+ ]
+}
