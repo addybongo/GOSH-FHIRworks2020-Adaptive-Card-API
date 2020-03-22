@@ -1,0 +1,41 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "Image",
+      "url": "https://hitconsultant.net/wp-content/uploads/2015/10/FHIR-API.png",
+      "size": "stretch"
+    },
+    {
+      "type": "TextBlock",
+      "spacing": "medium",
+      "size": "default",
+      "weight": "bolder",
+      "text": "Welcome to the FHIR Adaptive Card Demonstration Chatbot!",
+      "wrap": true,
+      "maxLines": 0
+    },
+    {
+      "type": "TextBlock",
+      "size": "default",
+      "isSubtle": "true",
+      "text": "Interact with the chatbot below to experience how it uses the adaptive card API to transform objects in FHIR into chatbot-ready content",
+      "wrap": true,
+      "maxLines": 0
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.OpenUrl",
+      "title": "Learn more about Adaptive Cards",
+      "url": "https://adaptivecards.io/"
+    },
+    {
+      "type": "Action.OpenUrl",
+      "title": "Link to API GitHub (Not put in yet)",
+      "url": "github link coming soon"
+    }
+  ]
+}
