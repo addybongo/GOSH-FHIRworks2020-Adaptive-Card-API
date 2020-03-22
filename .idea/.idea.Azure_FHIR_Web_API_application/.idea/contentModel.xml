@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\adnan\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\adnan\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\adnan\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Azure_FHIR_Web_API_application.405854223.00" t="ExcludeRecursive" />
+    <e p="C:\Users\adnan\OneDrive\Documents\Uni\Second Year\Systems Engineering\FIHRHackathon" t="IncludeFlat">
+      <e p="Azure_FHIR_Web_API_application.sln" t="IncludeFlat" />
+      <e p="dotnet-azure-fhir-web-api" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Cards" t="Include">
+          <e p="cardCreator.cs" t="Include" />
+          <e p="errorJson.json" t="Include" />
+          <e p="PatientCard.json" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="cardController.cs" t="Include" />
+          <e p="ObservationController.cs" t="Include" />
+          <e p="PatientController.cs" t="Include" />
+          <e p="searchController.cs" t="Include" />
+        </e>
+        <e p="donet-azure-fhir-web-api.csproj" t="IncludeRecursive" />
+        <e p="IServices" t="Include">
+          <e p="IAccessTokenService.cs" t="Include" />
+          <e p="ILoggerManager.cs" t="Include" />
+          <e p="IObservationService.cs" t="Include" />
+          <e p="IPatientService.cs" t="Include" />
+          <e p="IProtectedWebApiCallerService.cs" t="Include" />
+          <e p="IResourceFetchService.cs" t="Include" />
+        </e>
+        <e p="Logs" t="Include">
+          <e p="2020-03-02_logfile.txt" t="Include" />
+          <e p="2020-03-03_logfile.txt" t="Include" />
+          <e p="2020-03-04_logfile.txt" t="Include" />
+          <e p="2020-03-05_logfile.txt" t="Include" />
+          <e p="2020-03-06_logfile.txt" t="Include" />
+          <e p="2020-03-07_logfile.txt" t="Include" />
+          <e p="2020-03-08_logfile.txt" t="Include" />
+          <e p="2020-03-09_logfile.txt" t="Include" />
+          <e p="2020-03-12_logfile.txt" t="Include" />
+          <e p="2020-03-22_logfile.txt" t="Include" />
+          <e p="EmptyTextFile.txt" t="Include" />
+          <e p="internallog.txt" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="AuthenticationConfig.cs" t="Include" />
+          <e p="ObservationModel.cs" t="Include" />
+          <e p="PatientModel.cs" t="Include" />
+        </e>
+        <e p="nlog.config" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="donet-azure-fhir-web-api.AssemblyInfo.cs" t="Include" />
+              <e p="donet-azure-fhir-web-api.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="AccessTokenService.cs" t="Include" />
+          <e p="cardService.cs" t="Include" />
+          <e p="LoggerManager.cs" t="Include" />
+          <e p="ObservationService.cs" t="Include" />
+          <e p="PatientService.cs" t="Include" />
+          <e p="ProtectedWebApiCallerService.cs" t="Include" />
+          <e p="ResourceFetchService.cs" t="Include" />
+          <e p="searchSimpson.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

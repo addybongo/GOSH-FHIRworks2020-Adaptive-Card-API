@@ -34,8 +34,8 @@
     },
     {
       "type": "Action.OpenUrl",
-      "title": "Link to API GitHub (Not put in yet)",
-      "url": "github link coming soon"
+      "title": "Learn More About this API",
+      "url": "https://github.com/addybongo/GOSH-FHIRworks2020-Adaptive-Card-API"
     }
   ]
 }

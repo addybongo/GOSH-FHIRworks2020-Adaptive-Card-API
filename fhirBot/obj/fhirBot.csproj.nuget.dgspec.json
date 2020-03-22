@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adnan\\OneDrive\\Documents\\Uni\\Second Year\\Systems Engineering\\FIHRHackathon\\fhirBot\\fhirBot\\fhirBot.csproj": {}
+    "C:\\Users\\adnan\\OneDrive\\Documents\\Uni\\Second Year\\Systems Engineering\\FIHRHackathon\\fhirBot\\fhirBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adnan\\OneDrive\\Documents\\Uni\\Second Year\\Systems Engineering\\FIHRHackathon\\fhirBot\\fhirBot\\fhirBot.csproj": {
+    "C:\\Users\\adnan\\OneDrive\\Documents\\Uni\\Second Year\\Systems Engineering\\FIHRHackathon\\fhirBot\\fhirBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adnan\\OneDrive\\Documents\\Uni\\Second Year\\Systems Engineering\\FIHRHackathon\\fhirBot\\fhirBot\\fhirBot.csproj",
+        "projectUniqueName": "C:\\Users\\adnan\\OneDrive\\Documents\\Uni\\Second Year\\Systems Engineering\\FIHRHackathon\\fhirBot\\fhirBot.csproj",
         "projectName": "fhirBot",
-        "projectPath": "C:\\Users\\adnan\\OneDrive\\Documents\\Uni\\Second Year\\Systems Engineering\\FIHRHackathon\\fhirBot\\fhirBot\\fhirBot.csproj",
+        "projectPath": "C:\\Users\\adnan\\OneDrive\\Documents\\Uni\\Second Year\\Systems Engineering\\FIHRHackathon\\fhirBot\\fhirBot.csproj",
         "packagesPath": "C:\\Users\\adnan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adnan\\OneDrive\\Documents\\Uni\\Second Year\\Systems Engineering\\FIHRHackathon\\fhirBot\\fhirBot\\obj\\",
+        "outputPath": "C:\\Users\\adnan\\OneDrive\\Documents\\Uni\\Second Year\\Systems Engineering\\FIHRHackathon\\fhirBot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adnan\\AppData\\Roaming\\NuGet\\NuGet.Config",

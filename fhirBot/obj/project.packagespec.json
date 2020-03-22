@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\adnan\\OneDrive\\Documents\\Uni\\Second Year\\Systems Engineering\\FIHRHackathon\\fhirBot\\fhirBot\\fhirBot.csproj",
+    "projectUniqueName": "C:\\Users\\adnan\\OneDrive\\Documents\\Uni\\Second Year\\Systems Engineering\\FIHRHackathon\\fhirBot\\fhirBot.csproj",
     "projectName": "fhirBot",
-    "projectPath": "C:\\Users\\adnan\\OneDrive\\Documents\\Uni\\Second Year\\Systems Engineering\\FIHRHackathon\\fhirBot\\fhirBot\\fhirBot.csproj",
-    "outputPath": "C:\\Users\\adnan\\OneDrive\\Documents\\Uni\\Second Year\\Systems Engineering\\FIHRHackathon\\fhirBot\\fhirBot\\obj\\",
+    "projectPath": "C:\\Users\\adnan\\OneDrive\\Documents\\Uni\\Second Year\\Systems Engineering\\FIHRHackathon\\fhirBot\\fhirBot.csproj",
+    "outputPath": "C:\\Users\\adnan\\OneDrive\\Documents\\Uni\\Second Year\\Systems Engineering\\FIHRHackathon\\fhirBot\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp2.1"
